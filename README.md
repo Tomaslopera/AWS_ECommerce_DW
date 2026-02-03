@@ -96,7 +96,7 @@ s3://olist-staging-zone/staging/
 - **Conexión:** asociada con IAM Role con permisos de acceso a S3 y Glue.
 - **Acceso externo:** Redshift Spectrum consulta directamente los parquet desde S3.
 
-![Redshift Query](images/S3.png)
+![Redshift Query](images/Redshift-Query.png)
 
 ### 7. **Visualización PowerBI**
 
